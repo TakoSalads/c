@@ -1,0 +1,5 @@
+to compile project:
+gcc filename.c -o exename
+
+to run project
+./exename
